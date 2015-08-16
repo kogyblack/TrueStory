@@ -17,9 +17,8 @@ A RPG about the real life
 - Every player growth level have a different map.
 
 ### Growth levels
-- Childhood is a fixed level.
-- Subsequent levels depends on player skills, money and reputation.
-- Teenage
+- -Childhood is a fixed level- (All levels are fixed for now).
+- [future] Subsequent levels depends on player skills, money and reputation.
 
 ### Quests
 - Quests are small minigames (copy of known games, probably).
@@ -29,7 +28,7 @@ A RPG about the real life
 #### Quest list
 ##### Child
 - Dodge Ball (Breakout)
-- Bike Riding (car dodging from old console)
+- Bike Riding (Enduro?)
 
 ##### Teenage
 - Guitar Playing (Guitar Hero)
